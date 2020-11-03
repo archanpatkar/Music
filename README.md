@@ -1,2 +1,11 @@
 # Music
-Music composed and performed by me
+### Music produced and performed by me
+
+<hr>
+
+## Wave
+
+<img src="./albumart/wave.png" align="left" />
+
+
+## Meta

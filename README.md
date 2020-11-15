@@ -3,8 +3,8 @@
 
 ## Wave
 
-<div>
-<img src="./albumart/wavew.svg" height="300em" width="300em" align="left" />
+<div align="left">
+<img src="./albumart/wavew.svg" height="300em" width="300em"  />
 <a href="">Youtube</a> <br>
 <a href="">Soundcloud</a>
 </div>
@@ -14,8 +14,8 @@
 
 ## Meta
 
-<div>
-<img src="./albumart/meta.svg" height="300em" width="300em" align="left" />
+<div align="left">
+<img src="./albumart/meta.svg" height="300em" width="300em"  />
 <a href="">Youtube</a> <br>
 <a href="">Soundcloud</a>
 </div>

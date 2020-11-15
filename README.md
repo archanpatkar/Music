@@ -1,5 +1,5 @@
-# Music
-### Music produced and performed by me
+### Music
+#### Music produced and performed by me
 <hr>
 
 <div align="left">

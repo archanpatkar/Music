@@ -5,7 +5,9 @@
 
 ## Wave
 
-<img src="./albumart/wave.png" align="left" />
+<img src="./albumart/wave.svg" align="left" />
 
 
 ## Meta
+
+<img src="./albumart/meta.svg" align="left" />

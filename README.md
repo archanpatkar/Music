@@ -1,6 +1,5 @@
 ### Music
-#### Music produced and performed by me
-<hr>
+> Music produced and performed by me
 
 <div align="left">
 <img src="./albumart/wavew.svg" height="300em" width="300em"  />

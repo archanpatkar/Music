@@ -7,6 +7,7 @@
 
 <img src="./albumart/wave.svg" align="left" />
 
+<br>
 
 ## Meta
 

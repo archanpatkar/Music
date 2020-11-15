@@ -4,8 +4,8 @@
 
 <div align="center">
 <img src="./albumart/wavew.svg" height="300em" width="300em"  />
-<a href="">Youtube</a> <a href="">Soundcloud</a>
 </div>
+<a href="">Youtube</a> <a href="">Soundcloud</a>
 
 
 <br>
@@ -13,7 +13,5 @@
 
 <div align="center">
 <img src="./albumart/meta.svg" height="300em" width="300em"  />
-  
-<a href="">Youtube</a> 
-<a href="">Soundcloud</a>
 </div>
+<a href="">Youtube</a> <a href="">Soundcloud</a>

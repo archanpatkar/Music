@@ -5,10 +5,10 @@
 
 ## Wave
 
-<img src="./albumart/wave.svg" align="left" />
+<img src="./albumart/Wave.svg" height="400em" width="400em" align="left" />
 
 <br>
 
 ## Meta
 
-<img src="./albumart/meta.svg" align="left" />
+<img src="./albumart/meta.svg" height="400em" width="400em" align="left" />
